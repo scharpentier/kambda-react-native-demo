@@ -11,7 +11,7 @@
   "dependencies": {
     "native-base": "^2.8.1",
     "react": "^16.7.0-alpha.2",
-    "react-native": "npm:@brunolemos/react-native"
+    "react-native": "0.59.10"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
